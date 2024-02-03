@@ -11,3 +11,7 @@ Para executar, baixe os arquivos e digite:
 ```
 node app.js
 ```
+
+## English:
+
+This is a test project to take the Alura platform's Git course.
